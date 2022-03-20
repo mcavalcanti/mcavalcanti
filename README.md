@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mcavalcanti
 - 👀 I’m interested in  tecnology
-- 🌱 I’m currently learning Java  
-- 💞️ I’m looking to collaborate on  payments inovation.
+- 💞️ I’m looking to collaborate on accounts and payments inovation.
 - 📫 How to reach me @1206marcus
 
 <!---
